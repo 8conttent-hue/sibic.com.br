@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SIBIC"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Com mais de 10 anos de experiência, o SIBIC foi criado para ser um facilitador na busca de informações sobre o meio ambiente. Acreditamos que a educação e o conhecimento são pilares fundamentais para um futuro sustentável. Nós estamos aqui para compartilhar nossa paixão e conhecimento com você."
+  },
+  "content": "No SIBIC, acreditamos que todos têm o direito de aprender sobre seus impactos no meio ambiente. Nosso espaço é para todos que desejam melhorar sua relação com a natureza e fazer a diferença.",
+  "mission": "Empoderar as pessoas com conhecimento para promover ações sustentáveis em suas vidas e comunidades.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}

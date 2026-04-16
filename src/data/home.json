@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "SIBIC — Bem-vindo ao SIBIC",
+    "description": "Sua fonte de conhecimento sobre meio ambiente e sustentabilidade."
+  },
+  "hero": {
+    "title": "Bem-vindo ao SIBIC",
+    "subtitle": "Sua fonte de conhecimento sobre meio ambiente e sustentabilidade.",
+    "btnText": "Inscreva-se na nossa newsletter",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que escolher o SIBIC?",
+    "items": [
+      {
+        "icon": "🌱",
+        "title": "Conteúdo de Qualidade",
+        "desc": "Oferecemos os melhores conteúdos gratuitos sobre meio ambiente, desde dicas práticas até análises profundas."
+      },
+      {
+        "icon": "🤝",
+        "title": "Acessibilidade",
+        "desc": "Falamos com pessoas de todos os níveis de conhecimento, do iniciante ao expert."
+      },
+      {
+        "icon": "🌍",
+        "title": "Compromisso com a Preservação",
+        "desc": "Trabalhamos com paixão pela preservação ambiental, acreditando que isso traz benefícios a todos."
+      }
+    ]
+  },
+  "about": {
+    "title": "Nossa História",
+    "desc": "Com mais de 10 anos de experiência, o SIBIC foi criado para ser um facilitador na busca de informações sobre o meio ambiente. Acreditamos que a educação e o conhecimento são pilares fundamentais para um futuro sustentável. Nós estamos aqui para compartilhar nossa paixão e conhecimento com você.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "2",
+        "label": "Anos de SIBIC"
+      },
+      {
+        "value": "1000+",
+        "label": "Conteúdos Gratuitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

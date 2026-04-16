@@ -1,0 +1,53 @@
+{
+  "name": "SIBIC",
+  "slug": "sibic.com.br",
+  "description": "Nossa história foi construída com uma trajetória de muito trabalho ao longo de mais de 10 anos. Muito bem vindo ao nosso site. Usamos este espaço para falar sobre o nosso conhecimento, experiências paixão ao meio ambiente. Sinta-se em casa! Somos o meio facilitador pelo qual empresas e pessoas buscam informações para um planeta terra melhor. O Sibic já existe há 2 anos e nós acreditamos que a preservação do meio ambiente é um benefício para quem é daqui e para nós só existe uma forma de trabalhar: fazendo o certo. Nós falamos com pessoas de todos os níveis de conhecimento dentro do assunto. Mesmo você sendo iniciante na arte te cuidar do nosso lindo planta, nós temos um espaço reservado para você. Aqui você só encontrará os melhores conteúdos gratuitos sobre meio ambiente. Para acompanhar tudo basta se inscrever na newsletter.",
+  "url": "https://sibic.com.br",
+  "niche": "Educação",
+  "keywords": "Nossa historia foi construida com uma trajetoria de muito trabalho ao longo",
+  "email": "contato@sibic.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-B",
+    "hero": "Hero-D",
+    "features": "Features-J",
+    "about": "About-H",
+    "posts": "Posts-J",
+    "footer": "Footer-E",
+    "sobre": "Sobre-F",
+    "contato": "Contato-G"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
